@@ -18,8 +18,8 @@ O foco está em **usabilidade e design responsivo**, seguindo as boas práticas 
 
 ## Ferramentas Utilizadas
 
-- **Figma**: prototipagem de interface. link --> (https://www.figma.com/proto/cBiiw9woCerKFHCQP0G5AL/SigaApp?node-id=0-1&t=mEv3CjVGMVHpzFh2-1)
-- **LucidChart**: diagramas de casos de uso. 
+- **Figma**: prototipagem de interface. Link --> (https://www.figma.com/proto/cBiiw9woCerKFHCQP0G5AL/SigaApp?node-id=0-1&t=mEv3CjVGMVHpzFh2-1)
+- **LucidChart**: diagramas de casos de uso. Link --> (https://lucid.app/lucidchart/0bb72c32-f3a3-4075-a9b9-06969438fd7a/edit?viewport_loc=264%2C1412%2C6608%2C3005%2C.Q4MUjXso07N&invitationId=inv_8262f608-e540-469b-8420-2740e4724625)
 - **GitHub**: controle de versão e colaboração.
 - **SCRUM**: metodologia ágil de acompanhamento.
 
