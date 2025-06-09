@@ -56,6 +56,7 @@ App pode ficar lento mas deve exibir: "Alta demanda detectada, aguarde."
 ---
 
 ** Todos os testes foram organizados para garantir:
+
 . Confiabilidade  
 . Usabilidade  
 . Segurança e conformidade com normas (ex.: LGPD)  
