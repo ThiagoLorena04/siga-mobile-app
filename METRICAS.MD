@@ -60,14 +60,6 @@ Para garantir que o projeto atinja seus objetivos com qualidade e dentro do praz
 
 ---
 
-## Ferramentas de Apoio
-
-- **Planilha de Pontos de Função (Excel/Google Sheets)**: para facilitar o cálculo e ajustes futuros.  
-- **GitHub**: repositório central para versionamento e rastreabilidade.  
-- **Jira / Trello / Monday**: ferramentas para gestão ágil de tarefas, sprints e métricas.  
-
----
-
  **Importante:**  
 Essas métricas e o cálculo dos Pontos de Função não apenas atendem aos requisitos acadêmicos, mas também simulam um processo de **desenvolvimento profissional e sustentável**, alinhado com as melhores práticas de Engenharia de Software e gestão de produto digital.
 
